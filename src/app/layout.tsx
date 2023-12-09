@@ -26,7 +26,7 @@ export default function RootLayout({
           {children}
         </main>
         <footer className="app-footer">
-          <p>&copy; 2023 <strong>UNIVESP</strong>. Todos os direitos reservados.</p>
+          <p>&copy; 2023 <strong>Curso HTML</strong>. Todos os direitos reservados.</p>
           <p>Desenvolvido por <a href="https://github.com/KyndermanBaraldi" target="_blank" rel="noopener noreferrer">Kynderman Baraldi</a></p>
         </footer>        
       </body>
